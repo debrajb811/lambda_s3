@@ -1,2 +1,1 @@
-# serverlesscode
-AWS Serverless code 
+# Lambda_Serverless
